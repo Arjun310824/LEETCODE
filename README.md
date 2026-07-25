@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Arjun310824/LEETCODE/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Arjun310824/LEETCODE/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Arjun310824/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Arjun310824/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -45,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Arjun310824/LEETCODE/tree/master/0268-missing-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/Arjun310824/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
