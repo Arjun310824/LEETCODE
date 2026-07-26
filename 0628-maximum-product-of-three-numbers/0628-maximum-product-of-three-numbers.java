@@ -1,7 +1,25 @@
 class Solution {
     public int maximumProduct(int[] nums) {
-        Arrays.sort(nums);
-        int n=nums.length;
-        return Math.max(nums[n-1]*nums[n-2]*nums[n-3],nums[0]*nums[1]*nums[n-1]);
+        int a=-1001,b=a,c=b;
+        int x=1001,y=x;
+        for(int i:nums){
+            if(i>a){
+                c=b;
+                b=a;
+                a=i;
+            }else if(i>b){
+                c=b;
+                b=i;
+            }else if(i>c){
+                c=i;
+            }
+            if(i<x){
+                y=x;
+                x=i;
+            }else if(i<y){
+                y=i;
+            }
+        }
+        return Math.max(a*b*c,a*x*y);
     }
 }
