@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Arjun310824/LEETCODE/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Arjun310824/LEETCODE/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Arjun310824/LEETCODE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Arjun310824/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arjun310824/LEETCODE/tree/master/0283-move-zeroes) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Arjun310824/LEETCODE/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Arjun310824/LEETCODE/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
