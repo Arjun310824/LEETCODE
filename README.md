@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Arjun310824/LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Arjun310824/LEETCODE/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Arjun310824/LEETCODE/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Arjun310824/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Arjun310824/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Arjun310824/LEETCODE/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arjun310824/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Arjun310824/LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Arjun310824/LEETCODE/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/Arjun310824/LEETCODE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Arjun310824/LEETCODE/tree/master/0268-missing-number) |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arjun310824/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Arjun310824/LEETCODE/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
