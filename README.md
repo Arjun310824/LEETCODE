@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Arjun310824/LEETCODE/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Arjun310824/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Arjun310824/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Arjun310824/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Arjun310824/LEETCODE/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arjun310824/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arjun310824/LEETCODE/tree/master/0136-single-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Arjun310824/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Arjun310824/LEETCODE/tree/master/0258-add-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -144,4 +146,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Arjun310824/LEETCODE/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Arjun310824/LEETCODE/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
