@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arjun310824/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arjun310824/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Arjun310824/LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Arjun310824/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Arjun310824/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arjun310824/LEETCODE/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Arjun310824/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arjun310824/LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Arjun310824/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Arjun310824/LEETCODE/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Arjun310824/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arjun310824/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Arjun310824/LEETCODE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Arjun310824/LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Arjun310824/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Arjun310824/LEETCODE/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arjun310824/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arjun310824/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arjun310824/LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Arjun310824/LEETCODE/tree/master/0229-majority-element-ii) |
 | [2029-stone-game-ix](https://github.com/Arjun310824/LEETCODE/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Arjun310824/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
@@ -178,4 +182,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arjun310824/LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Arjun310824/LEETCODE/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
