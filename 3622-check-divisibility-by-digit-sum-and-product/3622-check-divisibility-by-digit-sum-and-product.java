@@ -9,6 +9,7 @@ class Solution {
             product*=r;
             n=n/10;
         }
-        return temp%(sum+product)==0;
+        if(temp%(sum+product)==0) return true;
+        return false;
     }
 }
