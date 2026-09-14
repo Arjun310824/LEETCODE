@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Arjun310824/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Arjun310824/LEETCODE/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Arjun310824/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -225,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Arjun310824/LEETCODE/tree/master/0175-combine-two-tables) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Arjun310824/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
